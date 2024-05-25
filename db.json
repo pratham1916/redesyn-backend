@@ -2,63 +2,29 @@
     "users": [
         {
             "id": 1,
-            "name": "Gertrudis Tatterton",
-            "age": 18,
-            "email": "gtatterton0@ehow.com"
-        },
-        {
-            "id": 2,
-            "name": "Gail Newbatt",
-            "age": 53,
-            "email": "gnewbatt1@un.org"
-        },
-        {
-            "id": 3,
-            "name": "Walliw Wilstead",
-            "age": 49,
-            "email": "wwilstead2@tripadvisor.com"
-        },
-        {
-            "id": 4,
-            "name": "Abran Proback",
-            "age": 29,
-            "email": "aproback3@theglobeandmail.com"
-        },
-        {
-            "id": 5,
-            "name": "Roda Chappelow",
-            "age": 31,
-            "email": "rchappelow4@oaic.gov.au"
-        },
-        {
-            "id": 6,
-            "name": "Karney Wylie",
-            "age": 22,
-            "email": "kwylie5@miitbeian.gov.cn"
-        },
-        {
-            "id": 7,
-            "name": "Cammi Pimbley",
-            "age": 63,
-            "email": "cpimbley6@nyu.edu"
-        },
-        {
-            "id": 8,
-            "name": "Gavra Manning",
-            "age": 43,
-            "email": "gmanning7@lycos.com"
-        },
-        {
-            "id": 9,
-            "name": "Zachary Seward",
-            "age": 45,
-            "email": "zseward8@oracle.com"
-        },
-        {
-            "id": 10,
-            "name": "Chucho Norssister",
-            "age": 20,
-            "email": "cnorssister9@mayoclinic.com"
+            "username": "pratham_11",
+            "profile_pic": "https://images.unsplash.com/photo-1531891437562-4301cf35b7e4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aGFuZHNvbWUlMjBndXl8ZW58MHx8MHx8fDA%3D",
+            "followers": "1M",
+            "subscribers": "220K",
+            "name": "Pratham Nemade",
+            "category": "Digital Creator",
+            "bio": [
+                "Equalist | Animal lover | Happy child✨",
+                "Social media - krissann@theplugmedia.in",
+                "@theplugmedia.in",
+                "Acting inquiries - teamkrissann@gmail.com@talentgram.agency"
+            ],
+            "gallery": [
+                "https://images.unsplash.com/photo-1552642986-ccb41e7059e7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGFuZHNvbWUlMjBtYW58ZW58MHx8MHx8fDA%3D",
+                "https://images.unsplash.com/photo-1600804889194-e6fbf08ddb39?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1520722359162-8ead33ae9ba4?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1542142430-6c91a7c123b5?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1587944308214-cb558d66cfe6?q=80&w=1905&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1623091928870-dbe5bd43ea7d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1521053432093-b5d85e9f0946?q=80&w=1886&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1519764622345-23439dd774f7?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1519058082700-08a0b56da9b4?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ]
         }
     ]
 }
